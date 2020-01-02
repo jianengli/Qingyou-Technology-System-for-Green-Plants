@@ -24,7 +24,7 @@ With the development of society, stress often makes students, white-collar worke
 - [Live demo](http://users.du.se/~h19jiali/Github_video/qingyou_instruction.mp4)
 
 ## Prerequisites
-In this project, you are able to run SqlServer 2008.
+In this project, you are able to run SqlServer 2008. Besides, install the folder "Qingyou Plant Culture System Installation Package" in the local and install jre 1.8 inside that folder.
 
 ## Running The Tests
 1. Start SqlServer and run qingyouSystemDatebase.sql.
