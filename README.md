@@ -1,5 +1,5 @@
 # Qingyou-Technology-System-for-Green-Plants
-JAVA-based desktop system with SqlServer as database. With the function of sensing temperature, humidity and light, multi-person chat room, web crawler and registration and login function
+A Java-based desktop application with a Sql Server database. With the function of sensing temperature, humidity and light, multi-person chat room, web crawler and registration and login function.
 
 ## Table of Contents
 
